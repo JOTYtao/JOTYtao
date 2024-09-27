@@ -37,7 +37,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <a href="https://github.com/onimur/handle-path-oz">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
+  <a href="[https://github.com/onimur/circleci-github-changelog-generator](https://github.com/JOTYtao/Ramp-Score)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a>
 </p>
