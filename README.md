@@ -42,5 +42,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
   </a>
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
+<!-- This readme was created by Joty - https://github.com/JOTYtao -->
+⭐️ From [onimur](https://github.com/JOTYtao)
