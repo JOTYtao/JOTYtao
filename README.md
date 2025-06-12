@@ -25,8 +25,7 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 
-![JOTYtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOTYtao&show_icons=true&theme=transparent)
-[![HitCount](https://hits.dwyl.com/JOTYtao/Solarflow.svg?style=flat-square)](http://hits.dwyl.com/JOTYtao/Solarflow)
+![JOTYtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOTYtao&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
