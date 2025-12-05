@@ -21,10 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me: tao-joty.jing@connect.polyu.hk;
 
 
-<!-- Your github readme stats
-You can use this api: [https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api)
--->
-
 ![JOTYtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOTYtao)
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
