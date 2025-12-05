@@ -16,8 +16,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I am currently pursuing my PhD at the Hong Kong Polytechnic University;
-- 🤔 My research projects include deep learning based solar forecasting and remaining useful life prediction, focus on time series forecasting.
+- 👨🏽‍💻 I am currently pursuing my PhD at the Hong Kong Polytechnic University; I am also looking for a postdoctoral position.
+- 🤔 My research projects include deep learning based solar forecasting and time series forecasting.
 - 📫 How to reach me: tao-joty.jing@connect.polyu.hk;
 
 
