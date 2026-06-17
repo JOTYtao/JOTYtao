@@ -1,82 +1,31 @@
-<!-- Profile README -->
+<!-- Your title -->
+## Hi, I'm Joty, a Developer 🚀 from China.
 
-<h2 align="center">Hi, I'm Joty 👋</h2>
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
-<p align="center">
-  PhD Candidate in Renewable Energy Forecasting · Deep Learning Researcher · Time Series Modeling
-</p>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JOTYtao)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](tao-joty.jing@connect.polyu.hk)
 
-<p align="center">
-  <a href="https://github.com/JOTYtao">
-    <img src="https://img.shields.io/badge/GitHub-JOTYtao-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tao-joty.jing@connect.polyu.hk">
-    <img src="https://img.shields.io/badge/Email-tao--joty.jing%40connect.polyu.hk-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+&nbsp;
 
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 👨🏽‍💻 I am currently pursuing my PhD at the Hong Kong Polytechnic University; I am also looking for a postdoctoral position.
+- 🤔 My research projects include deep learning based solar forecasting and time series forecasting.
+- 📫 How to reach me: tao-joty.jing@connect.polyu.hk;
+
+![JOTYtao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOTYtao)
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
 ---
 
-### About Me
-
-I am currently pursuing my PhD at The Hong Kong Polytechnic University, with research focused on deep learning-based solar irradiance forecasting, photovoltaic power forecasting, and time series prediction.
-
-My work aims to improve the reliability, accuracy, and uncertainty awareness of renewable energy forecasting systems through advanced machine learning models, including deep neural networks, probabilistic forecasting frameworks, diffusion models, flow matching, and spatio-temporal representation learning.
-
-I am also actively seeking postdoctoral research opportunities in renewable energy forecasting, artificial intelligence, smart grids, and energy system optimization.
-
----
-
-### Research Interests
-
-- Solar irradiance and photovoltaic power forecasting
-- Deep learning for renewable energy systems
-- Probabilistic forecasting and uncertainty quantification
-- Time series forecasting and spatio-temporal modeling
-- Diffusion models and flow matching for energy forecasting
-- Ramp-event forecasting and grid integration of solar energy
-
----
-
-### Technical Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat" />
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-4B8BBE?style=flat" />
-  <img src="https://img.shields.io/badge/Renewable%20Energy-2E8B57?style=flat" />
-  <img src="https://img.shields.io/badge/Solar%20Forecasting-F9A825?style=flat" />
-</p>
-
----
-
-### Current Focus
-
-- Developing high-fidelity solar irradiance forecasting models
-- Designing probabilistic forecasting methods for renewable energy applications
-- Exploring diffusion and flow-matching models for spatio-temporal prediction
-- Building forecasting frameworks for operational photovoltaic grid integration
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JOTYtao&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOTYtao&layout=compact&hide_border=true" width="36%" />
-</p>
-
----
-
-### Contact
-
-For research collaboration, academic discussion, or postdoctoral opportunities, please feel free to contact me:
-
-📧 tao-joty.jing@connect.polyu.hk
-
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/JOTYtao">Joty</a>
-</p>
+<!-- This readme was created by Joty - https://github.com/JOTYtao -->
+⭐️ From [Joty](https://github.com/JOTYtao)
